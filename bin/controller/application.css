@@ -1,0 +1,19 @@
+.textField{
+	-fx-font: bold 15pt "sans-serif";
+}
+.label{
+	-fx-font: bold 10pt "sans-serif";
+}
+.root {
+	-fx-background-color:lavender;
+}
+
+.button{
+
+-fx-border-width:10px;
+-fx-font: bold 10pt "sans-serif";
+
+}
+#tableView{
+	-fx-border-style: solid
+}
